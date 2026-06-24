@@ -1,4 +1,3 @@
-# projeto-agrinho
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
@@ -115,7 +114,7 @@ footer{
 </footer>
 
 </body>
-</html>-
+</html>
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
